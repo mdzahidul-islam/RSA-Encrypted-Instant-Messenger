@@ -1,6 +1,6 @@
-Computer Network Security EECE 5850
+Computer Network Security EECE 5850 (UML)
 
-Project 2: Secure Instant Messenger (IM) with RSA: Integration of IM with RSA
+Project phase-2: Secure Instant Messenger (IM) with RSA: Integration of IM with RSA
 
 Submitted by: Parikshit Jadav and Md Zahidul Islam
 
